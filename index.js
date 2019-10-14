@@ -48,4 +48,4 @@ fs.writeFile('jsonPointID/level.json', JSON.stringify(userData), (err) => {
   
 });
  
-bot.login('NjI5OTMzMjY0NTg4NzY3MjQy.XaSdwQ.RZVHJDkdWxcWG-OrEFO3OevST0c');
+bot.login('NjI5OTMzMjY0NTg4NzY3MjQy.XaSlWg.Uiii4hvViWgd3C0k1vIo4iA4gCk');
